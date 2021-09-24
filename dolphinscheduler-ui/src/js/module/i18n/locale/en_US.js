@@ -715,6 +715,7 @@ export default {
   'No more...': 'No more...',
   'Audit Log': 'Audit Log',
   'Audit Type': 'audit type',
+  'All Types': 'all audit types',
   'All Modules': 'all modules',
   'All Operations': 'all operations',
   'User Audit': 'user management audit',
