@@ -710,9 +710,9 @@ export default {
   'Reference from': 'Reference from',
   'No more...': 'No more...',
   'Audit Log': 'Audit Log',
-  'AuditType': 'audit type',
-  'AllModules': 'all modules',
-  'AllOperations': 'all operations',
-  'UserAudit': 'user management audit',
-  'Project Module': 'project management audit',
+  'Audit Type': 'audit type',
+  'All Modules': 'all modules',
+  'All Operations': 'all operations',
+  'User Audit': 'user management audit',
+  'Project Audit': 'project management audit'
 }
